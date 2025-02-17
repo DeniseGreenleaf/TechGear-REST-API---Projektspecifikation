@@ -1,0 +1,1 @@
+# TechGear-REST-API---Projektspecifikation
